@@ -1,5 +1,0 @@
-C:/coding/nir_qt/PerceptronVisualizer/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/PerceptronVisualizer.dir
-C:/coding/nir_qt/PerceptronVisualizer/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/coding/nir_qt/PerceptronVisualizer/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/coding/nir_qt/PerceptronVisualizer/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/PerceptronVisualizer_autogen_timestamp_deps.dir
-C:/coding/nir_qt/PerceptronVisualizer/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/PerceptronVisualizer_autogen.dir

@@ -1,0 +1,3 @@
+C:\programms\qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\PerceptronVisualizer.dir/objects.a
+C:\programms\qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\PerceptronVisualizer.dir/objects.a @CMakeFiles\PerceptronVisualizer.dir\objects1.rsp
+C:\programms\qt\Tools\mingw1310_64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\PerceptronVisualizer.dir/objects.a -Wl,--no-whole-archive -o PerceptronVisualizer.exe -Wl,--out-implib,libPerceptronVisualizer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PerceptronVisualizer.dir\linkLibs.rsp
